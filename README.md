@@ -12,7 +12,7 @@ This repository shows projects dealing with anomaly detection in finance for fra
 
 - **Fraud Detection:** Used autoencoders, isolation forests, and one-class SVM to detect fraudulent transactions.
 - **[Time-Based Anomaly Analysis:](https://github.com/MiltonGreat/Time-Based-Anomaly-Analysis.git)** Identified sudden spending spikes within short time frames.
-- **Feature Engineering:** Applied PCA and t-SNE to visualize fraud patterns and improve classification accuracy.
+- **[Feature Engineering:](https://github.com/MiltonGreat/Feature-Engineering-Fraud-Detection.git)** Applied PCA and t-SNE to visualize fraud patterns and improve classification accuracy.
 
 ### 2. Synthetic Bank Transactions (Money Laundering & Unusual Spending Patterns)
 
