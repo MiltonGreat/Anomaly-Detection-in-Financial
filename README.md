@@ -22,7 +22,7 @@ This repository shows projects dealing with anomaly detection in finance for fra
 
 **What I Did in the Project:**
 
-- **Transaction Risk Analysis:** Implemented Local Outlier Factor (LOF) to score transactions for fraud risk.
+- **[Transaction Risk Analysis:](https://github.com/MiltonGreat/Transaction-Risk-Analysis.git)** Implemented Local Outlier Factor (LOF) to score transactions for fraud risk.
 
 ### 3. Forex Exchange Rates & Trading (Market Manipulation & Flash Crashes)
 
