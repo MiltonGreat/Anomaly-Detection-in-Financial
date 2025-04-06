@@ -32,6 +32,4 @@ This repository shows projects dealing with anomaly detection in finance for fra
 
 **What I Did in the Project:**
 
-- **Detect Flash Crashes:** Used rolling z-scores to identify sudden exchange rate drops.
-- **Currency Manipulation Analysis:** Applied time-series anomaly detection techniques to find suspicious trading patterns.
-- **High-Volatility Periods:** Built LSTM-based models to predict major fluctuations in the forex market.
+- **[Currency Manipulation Analysis:](https://github.com/MiltonGreat/Currency-Manipulation-Analysis.git)** Applied time-series anomaly detection techniques to find suspicious trading patterns.
